@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    color: white;
+    color: #ffffff;
     padding: 10px 0;
     text-align: center;
 }
@@ -29,13 +29,13 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: #ffffff;
     text-decoration: none;
     font-weight: bold;
 }
 
 hero {
-    color: white;
+    color: #ffffff;
     text-align: center;
     padding: 100px 20px;
 }
@@ -71,6 +71,7 @@ menu-items {
 }
 
 menu-item {
+    color: #ffffff;
     background: darkblue;
     padding: 20px;
     margin: 10px;
