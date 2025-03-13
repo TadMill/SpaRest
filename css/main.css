@@ -51,7 +51,7 @@ hero-content p {
     margin: 10px 0 20px;
 }
 
-hero-content .btn {
+hero-content btn {
     background-color: #ff6600;
     color: white;
     padding: 10px 20px;
@@ -59,7 +59,7 @@ hero-content .btn {
     border-radius: 5px;
 }
 
-menu, .about, .contact {
+menu, about, contact {
     padding: 20px;
     color: white;
     text-align: center;
