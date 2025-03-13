@@ -59,6 +59,11 @@ nav ul li a {
     border-radius: 5px;
 }
 
+.menu {
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
 .menu about contact {
     padding: 20px;
     color: white;
