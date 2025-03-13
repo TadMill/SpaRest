@@ -34,7 +34,7 @@ nav ul li a {
     font-weight: bold;
 }
 
-.hero {
+hero {
     background: url('hero.jpg') no-repeat center center/cover;
     color: white;
     text-align: center;
