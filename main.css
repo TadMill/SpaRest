@@ -41,17 +41,17 @@ hero {
     padding: 100px 20px;
 }
 
-.hero-content h1 {
+hero-content h1 {
     font-size: 3em;
     margin: 0;
 }
 
-.hero-content p {
+hero-content p {
     font-size: 1.5em;
     margin: 10px 0 20px;
 }
 
-.hero-content .btn {
+hero-content .btn {
     background-color: #ff6600;
     color: white;
     padding: 10px 20px;
@@ -59,19 +59,19 @@ hero {
     border-radius: 5px;
 }
 
-.menu, .about, .contact {
+menu, .about, .contact {
     padding: 20px;
     color: white;
     text-align: center;
 }
 
-.menu-items {
+menu-items {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
 }
 
-.menu-item {
+menu-item {
     background: darkblue;
     padding: 20px;
     margin: 10px;
@@ -80,11 +80,11 @@ hero {
     width: 30%;
 }
 
-.menu-item img {
+menu-item img {
     width: 100%;
     border-radius: 5px;
     color: black;
 }
 
-.about {
+about {
     color: white;
